@@ -1,0 +1,7 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [06/Feb/2023 20:49:16] "GET /post_form.html HTTP/1.1" 200 -
+127.0.0.1 - - [06/Feb/2023 20:49:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+Попытка загрузки файла с расширением - exe
+127.0.0.1 - - [06/Feb/2023 20:49:20] "POST /post_uploaded.html HTTP/1.1" 200 -
